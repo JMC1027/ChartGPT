@@ -8,3 +8,4 @@ faiss-cpu
 gradio
 tiktoken
 openai
+python-dotenv
